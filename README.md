@@ -75,7 +75,7 @@ Steps are mentioned in: https://github.com/subhra74/xdm/wiki/Submitting-translat
 [102]: https://github.com/subhra74/xdm/releases/download/7.2.11/xdman.jar
 
 [//]: #AddonLinks
-[18]: https://chrome.google.com/webstore/detail/xtreme-download-manager/dkckaoghoiffdbomfbbodbbgmhjblecj
+[18]: https://chrome.google.com/webstore/detail/xdm-integration-module-be/akdmdglbephckgfmdffcdebnpjgamofc
 [19]: https://addons.mozilla.org/en-US/firefox/addon/xdm-browser-monitor/
 [20]: #
 [21]: https://sourceforge.net/p/xdman/blog/2018/01/xdm-integration-with-microsoft-edge/
